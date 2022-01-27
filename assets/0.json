@@ -1,0 +1,19 @@
+{
+    "name": "VibeHead",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "FfCPCQprnQev3Zni64qVBG3fGrgp28cXJiXKmF4DzHTj",
+          "share": 100
+        }
+      ]
+    }
+  }

@@ -1,0 +1,19 @@
+{
+    "name": "Samurai2088",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "FfCPCQprnQev3Zni64qVBG3fGrgp28cXJiXKmF4DzHTj",
+          "share": 100
+        }
+      ]
+    }
+  }
